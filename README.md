@@ -1,8 +1,6 @@
 # Backlink Finder
 A tool to discover backlinks and uncover link-building opportunities, helping you improve SEO performance and analyze competitors' strategies.
 
-<-- use this contact and banner details as it is -->
-(
 <p align="center">
 <a href="https://t.me/devpilot1" target="_blank">
 <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -21,7 +19,6 @@ A tool to discover backlinks and uncover link-building opportunities, helping yo
 <p align="center">
 <strong>For discussion, queries, and freelance work — reach out :point_up_2:</strong>
 </p>
-)
 
 ## Introduction
 Backlink Finder is a powerful tool designed to help users discover backlinks pointing to their website. It simplifies the process of identifying valuable backlinks, tracking SEO performance, and uncovering link-building opportunities. This tool is essential for improving your website's SEO strategy and can also be used to analyze the backlink strategies of competitors.
