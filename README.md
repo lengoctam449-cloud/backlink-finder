@@ -27,7 +27,7 @@ A tool to discover backlinks and uncover link-building opportunities, helping yo
 <p align="center">
 <img src="backlink finder.png" alt="backlink finder" width="100%">
 </p>
-### Key Benefits
+## Key Benefits
 1. Discover valuable backlinks to boost SEO.
 2. Identify competitor link-building strategies.
 3. Automates backlink discovery for faster SEO improvements.
