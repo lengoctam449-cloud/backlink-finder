@@ -27,7 +27,7 @@ A tool to discover backlinks and uncover link-building opportunities, helping yo
 Backlink Finder is a powerful tool designed to help users discover backlinks pointing to their website. It simplifies the process of identifying valuable backlinks, tracking SEO performance, and uncovering link-building opportunities. This tool is essential for improving your website's SEO strategy and can also be used to analyze the backlink strategies of competitors.
 
 <p align="center">
-<img src="backlink-finder.png" alt="Backlink Finder hero" width="90%">
+<img src="backlink finder.png" alt="backlink finder" width="100%">
 </p>
 
 ### Key Benefits
